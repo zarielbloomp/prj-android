@@ -43,9 +43,8 @@ p{
 .p-titulo{
     text-align: center;
     color: white;
-    padding: 10x;
+    padding: 16px;
     margin-top: -26px;
-    
     
 }
 
@@ -53,7 +52,7 @@ p{
     text-decoration: none;
     color: white;
     margin-right: 15px;
-    padding: 10px;
+    padding: 0px;
     margin: 10px;
     border: 10px;
 
