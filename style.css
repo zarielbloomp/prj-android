@@ -52,7 +52,7 @@ p{
     text-decoration: none;
     color: white;
     margin-right: 15px;
-    padding: 0px;
+    padding: 10px;
     margin: 10px;
     border: 10px;
 
@@ -173,7 +173,7 @@ h4{
 }
 
 
-li {
+ol {
     list-style: none; 
     columns: 2;
   }
