@@ -178,6 +178,7 @@ h4{
 ol {
     list-style: none; 
     columns: 2;
+    text-align: left;
   }
   
   li::before {
@@ -186,6 +187,7 @@ ol {
     font-size: 1.5em; 
     margin-right: 0.5em;
     columns: 2;
+    text-align: left;
   }
 
   .text-extra   {
